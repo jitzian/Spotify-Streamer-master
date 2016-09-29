@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spotify-Streamer</string>
+
+    <string name="search_artist">Type an artist</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="failed_search">Failed search</string>
+    <string name="network_error">Network error</string>
+    <string name="server_error">Server error</string>
+</resources>
